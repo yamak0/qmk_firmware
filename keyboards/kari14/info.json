@@ -1,0 +1,17 @@
+{
+    "manufacturer": "yamako",
+    "keyboard_name": "kari14",
+    "maintainer": "yamako",
+    "bootloader": "custom",
+    "diode_direction": "COL2ROW",
+    "features": {
+        "bootmagic": true,
+        "command": false,
+        "console": false,
+        "extrakey": true,
+        "mousekey": true,
+        "nkro": true
+    },
+    "processor": "RP2040",
+    "url": ""
+}
